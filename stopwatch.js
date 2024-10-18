@@ -34,7 +34,7 @@ resetBtn.addEventListener('click', function(){
 
 let intervalID = null;
 
-let limit = 5;
+let limit = 59;
 
 function start() {
     intervalId = setInterval(() => {
